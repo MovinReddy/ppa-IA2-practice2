@@ -31,4 +31,5 @@ int main()
   x=is_composite(n);
   output(n,x);
   return 0;
+  
 }
